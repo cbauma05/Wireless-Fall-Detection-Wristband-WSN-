@@ -1,4 +1,4 @@
-# Fall Detection Wristband
+# Wireless Fall Detection Wristband
 
 A wireless sensor network (WSN) that detects falls and pinpoints the room they occurred in, alerting a caretaker in real time.
 
