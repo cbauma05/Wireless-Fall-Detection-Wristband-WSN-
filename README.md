@@ -2,18 +2,13 @@
 
 A wireless sensor network (WSN) that detects falls and pinpoints the room they occurred in, alerting a caretaker in real time.
 
-Built for ENGG 4200 — team of 4.
-
 ![Wristband hero shot](images/hero.jpg)
-*Placeholder — wristband + base station photo*
 
 ---
 
 ## Overview
 
 The system pairs a wearable wristband node with fixed anchor nodes placed around a home to detect falls and localize them to a specific room, then alerts a caretaker through a 3D-printed base station.
-
-**My contribution:** *[fill in — e.g. "Owned the wristband hardware and fall-detection algorithm"]*
 
 ## Features
 
@@ -30,7 +25,6 @@ The system pairs a wearable wristband node with fixed anchor nodes placed around
 4. **Alerting** — The base station displays the closest room and distance to the caretaker. An acknowledgment triggers an audible confirmation on the wristband.
 
 ![System diagram](images/system-diagram.jpg)
-*Placeholder — block diagram: wristband → anchor nodes → base station*
 
 ## Hardware
 
@@ -46,8 +40,6 @@ The system pairs a wearable wristband node with fixed anchor nodes placed around
   <img src="images/base-station.jpg" width="32%" alt="Base station placeholder" />
 </p>
 
-*Placeholders — PCB layout, wristband build, base station*
-
 ## Results
 
 - Successfully detected simulated falls and correctly localized them to the right room in testing.
@@ -57,10 +49,3 @@ The system pairs a wearable wristband node with fixed anchor nodes placed around
 
 `ESP32` · `ESP-NOW` · `Custom PCB` · `Gyroscope/accelerometer` · `3D-printed enclosure`
 
-## Team
-
-4-person team, ENGG 4200.
-
-## License
-
-*[Add a license if you want this public — MIT is a common default for student projects.]*
